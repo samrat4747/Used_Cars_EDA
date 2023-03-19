@@ -5,7 +5,8 @@ Data Set :-
 
 1. S.No. : Serial Number
 2. Name : Name of the car which includes Brand name and Model name
-3. Location : The location in which the car is being sold or is available for purchase Citiesr> 4. Year : Manufacturing year of the car
+3. Location : The location in which the car is being sold or is available for purchase Cities.
+4. Year : Manufacturing year of the car
 5. Kilometers_driven : The total kilometers driven in the car by the previous owner(s) in KM.
 6. Fuel_Type : The type of fuel used by the car. (Petrol, Diesel, Electric, CNG, LPG)
 7. Transmission : The type of transmission used by the car. (Automatic / Manual)
